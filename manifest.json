@@ -2,9 +2,11 @@
   "manifest_version": 3,
   "name": "Altext",
   "description": "Generates alt text for images lacking it",
+  "icons": {
+    "128": "altext-gen.png"
+  },
   "version": "1.0",
   "permissions": [
-    "https://altext-gen-backend.onrender.com",
     "activeTab"
   ],
   "content_scripts": [
