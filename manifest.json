@@ -4,7 +4,7 @@
   "description": "Generates alt text for images lacking it",
   "version": "1.0",
   "permissions": [
-    "https://altext-gen-backend.onrender.com/",
+    "https://altext-gen-backend.onrender.com",
     "activeTab"
   ],
   "content_scripts": [
